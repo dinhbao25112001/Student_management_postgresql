@@ -1,0 +1,7 @@
+.vscode/
+
+student_app
+student_management
+*.o
+
+.DS_Store
